@@ -1,0 +1,20 @@
+Error: {case_clause,["madninja"]}
+[{rebar3_hex_user,do,1,
+                  [{file,"/Users/men/git/erl-base58/_build/default/plugins/rebar3_hex/src/rebar3_hex_user.erl"},
+                   {line,42}]},
+ {rebar_core,do,2,
+             [{file,"/home/tristan/Devel/rebar3/_build/default/lib/rebar/src/rebar_core.erl"},
+              {line,153}]},
+ {rebar_prv_do,do_tasks,2,
+               [{file,"/home/tristan/Devel/rebar3/_build/default/lib/rebar/src/rebar_prv_do.erl"},
+                {line,68}]},
+ {rebar_core,do,2,
+             [{file,"/home/tristan/Devel/rebar3/_build/default/lib/rebar/src/rebar_core.erl"},
+              {line,153}]},
+ {rebar3,main,1,
+         [{file,"/home/tristan/Devel/rebar3/_build/default/lib/rebar/src/rebar3.erl"},
+          {line,66}]},
+ {escript,run,2,[{file,"escript.erl"},{line,759}]},
+ {escript,start,1,[{file,"escript.erl"},{line,277}]},
+ {init,start_em,1,[]}]
+
